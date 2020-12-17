@@ -1,0 +1,25 @@
+body{
+  background: #44C7D9;
+}
+h1 {
+  text-align: center;
+  color: #331915;
+}
+p{
+  color: #BB4836;
+}
+a{
+  color: black;
+}
+.listas{
+  color: #AB5D4C;
+}
+.listas h3{
+  color: #6E3C30;
+}
+.tablas{
+  color: #B4584B;
+}
+.tablas th{
+  color: #632F27;
+}
